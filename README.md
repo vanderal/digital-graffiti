@@ -1,16 +1,6 @@
-# Painterino-Online-Paint
-# Make sure to check out the new version ! [Painterino v2](https://github.com/antkaynak/Painterino-v2)
+# Digital Graffiti 
 
-
-A simple multi-user web paint application made with JavaEE7.
-
-![alt text](https://github.com/Exercon/Painterino-Online-Paint/blob/master/_screenshots/antweblogin.png)
-
-
-![alt text](https://github.com/Exercon/Painterino-Online-Paint/blob/master/_screenshots/antwebmain.png)
-
-![alt text](https://github.com/Exercon/Painterino-Online-Paint/blob/master/_screenshots/antwebpaint2.png)
-
+Taylor's University Collaborative Project with RMIT University
 
 ## Getting Started
 
@@ -147,6 +137,7 @@ Bootstrap [License](https://v4-alpha.getbootstrap.com/about/license/)
 * Another huge thanks to [GSON](https://github.com/google/gson)
 * Readme template by [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 * Login screen [Aigars Silkalns](https://codepen.io/colorlib/)
+* Original project [Painterino-Online-Paint by antkaynak](https://github.com/antkaynak/Painterino-Online-Paint)
 
 # Questions
 If you have any questions mail me -  antkaynak1@gmail.com
